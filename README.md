@@ -1,4 +1,5 @@
 # Astro Starter Kit: Minimal
+[![Netlify Status](https://api.netlify.com/api/v1/badges/07180c93-641d-4ad8-9f7f-b2a8547d19c4/deploy-status)](https://app.netlify.com/sites/kvitko/deploys)
 
 ```sh
 npm create astro@latest -- --template minimal
